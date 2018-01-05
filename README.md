@@ -1,1 +1,1 @@
-The book <Successful Algorithmic Trading> and its source code
+The book <Successful Algorithmic Trading> and its source code.
